@@ -51,5 +51,5 @@ hobby     - <code>std::cout << "programming\n";</code>
 
 ---
 
-**Telegram**: [openrced](https://t.me/openrced\
+**Telegram**: [openrced](https://t.me/openrced)\
 **GitHub**: [b0nn133](https://github.com/b0nn133)
