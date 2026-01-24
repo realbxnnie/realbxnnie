@@ -5,11 +5,12 @@
 
 ---
 
-<h1 align="center"> <code>🛈 biography</code> </h1>
-<i><b>p.s: i know that GitHub isn't a platform for introductions, but why not?</b></i>
+<h1 align="center"> <code>🛈 about me</code> </h1>
 
 ---
 
+name      - Yuto\
+origin    - Japan\
 alias     - bonnie\
 birthday  - February 10th\
 hobby     - <code>std::cout << "programming\n";</code>
