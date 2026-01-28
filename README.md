@@ -41,7 +41,7 @@ hobby     - <code>std::cout << "programming\n";</code>
 <details>
   <summary>Lenovo ThinkPad X390</summary>
   <ul>
-    <li><b>OS</b> CachyOS</li>
+    <li><b>OS</b> Void Linux</li>
     <li><b>Color</b> Black</li>
   </ul>
 </details>
