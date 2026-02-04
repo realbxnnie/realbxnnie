@@ -9,8 +9,7 @@
 
 ---
 
-name      - Yuto\
-origin    - Japan\
+origin    - Russia\
 alias     - bonnie\
 birthday  - February 10th\
 hobby     - <code>std::cout << "programming\n";</code>
