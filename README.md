@@ -29,6 +29,14 @@ hobby     - <code>std::cout << "programming\n";</code>
 ---
 
 <details>
+  <summary>GenMachine Ren5000 5800H</summary>
+  <ul>
+    <li><b>OS</b> CachyOS Linux & Windows 11</li>
+    <li><b>Color</b> Black</li>
+  </ul>
+</details>
+
+<details>
   <summary>Samsung Galaxy A55</summary>
   <ul>
     <li><b>OS</b> One UI 7</li>
@@ -40,7 +48,7 @@ hobby     - <code>std::cout << "programming\n";</code>
 <details>
   <summary>Lenovo ThinkPad X390</summary>
   <ul>
-    <li><b>OS</b> Void Linux</li>
+    <li><b>OS</b> Void Linux & Windows 11</li>
     <li><b>Color</b> Black</li>
   </ul>
 </details>
